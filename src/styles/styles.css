@@ -1,0 +1,32 @@
+
+body{
+    background-color: rgb(226 232 240);
+    
+}
+.kzui-Heading{
+    font-size: 24px;
+    color: blue ;
+    opacity: 80%;
+    text-align: center;
+}
+.kzui-container{
+    width: 1200px;
+    margin:  50px auto;
+    
+}
+ 
+.kzui-selectContainer{
+    width: 500px;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+   
+}
+.kzui-selectInput{
+     color:blue;
+      
+}
+.kzui-xyz{
+    padding: 50px;
+}
